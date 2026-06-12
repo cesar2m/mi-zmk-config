@@ -1,7 +1,7 @@
 layout: {zmk_keyboard: corne}
 layers:
   BAS: [↹, Q, W, E, R, T, Y, U, I, O, P, '$$mdi:backspace-outline$$', LEFT SHIFT, A, S, D, '&f_qt', G, H, J, K, L, ;, '''', LEFT CONTROL, Z, X, C, V, B, N, M, ',',
-    ., /, Esc, '$$mdi:apple-keyboard-command$$', LOW, ␣, ⏎, RAI, '$$mdi:apple-keyboard-option$$']
+    ., /, Esc, '$$mdi:apple-keyboard-command$$', LOW, ␣, ENTER, RAI, '$$mdi:apple-keyboard-option$$']
   LOW:
   - ↹
   - '1'
